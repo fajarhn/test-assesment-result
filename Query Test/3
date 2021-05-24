@@ -1,0 +1,2 @@
+select * from customer 'budi'
+order by product;   
