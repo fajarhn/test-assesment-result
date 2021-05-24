@@ -1,0 +1,2 @@
+select * from Order
+ORDER BY Amount;
